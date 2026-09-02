@@ -1,0 +1,4 @@
+# Este proyecto usa únicamente la librería estándar de Python (3.8+):
+# os, mmap, time, random, shutil.
+# No se requieren dependencias externas para que corra en cualquier
+# equipo sin instalación adicional.
