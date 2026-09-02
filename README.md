@@ -1,6 +1,6 @@
 # Laboratorio 1 — Matriz de 100.000 x 100.000 en disco duro
 
-**Estudiante:** [ESCRIBE AQUÍ TU NOMBRE COMPLETO]
+**Estudiante:** Yasiris Andrea Mercado Reales
 **Curso:** Estructuras de Datos y Laboratorios
 **Profesor:** Diego
 
