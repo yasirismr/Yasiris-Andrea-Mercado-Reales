@@ -1,4 +1,4 @@
-# Laboratorio 2 — Árbol de Merkle (Merkle Tree)
+# Yasiris Andrea Mercado Reales Laboratorio 2 — Árbol de Merkle (Merkle Tree)
 
 Implementación de un Árbol de Merkle en Python usando SHA-256, con un experimento
 completo que crea transacciones simuladas, construye el árbol, demuestra la
@@ -25,25 +25,7 @@ una prueba de inclusión (Merkle Proof).
 - Si el número de nodos en un nivel es **impar**, el último nodo se **duplica** para poder emparejarlo.
 - La **raíz (Merkle Root)** es el hash que representa la integridad de todo el conjunto de datos.
 
-## Cómo ejecutarlo
 
-### Opción 1: Google Colab (recomendado)
-1. Abrir [Google Colab](https://colab.research.google.com/).
-2. `Archivo → Subir cuaderno` y seleccionar `Lab2_Merkle_Tree.ipynb`.
-3. Ejecutar todas las celdas (`Entorno de ejecución → Ejecutar todas`).
-
-El notebook ya incluye las salidas de una ejecución previa, por lo que también puede
-revisarse directamente sin volver a ejecutarlo.
-
-### Opción 2: Local
-```bash
-python3 experimento.py
-python3 diagrama.py     # genera merkle_tree_diagram.png (requiere matplotlib)
-python3 capturas.py     # genera las capturas de verificación
-```
-
-Requisitos: Python 3.8+ (`hashlib` es parte de la librería estándar). `diagrama.py`
-y `capturas.py` requieren `matplotlib` (`pip install matplotlib`).
 
 ## Diseño del árbol (5 transacciones)
 
