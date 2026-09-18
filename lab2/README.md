@@ -78,14 +78,11 @@ la evidencia visual de ambos casos.
 De acuerdo con el código de honor del curso, se declara explícitamente el uso de
 IA generativa (Claude, Anthropic) en este entregable:
 
-- **Qué se usó de la IA**: todo el código fuente (`merkle_tree.py`, `experimento.py`,
-  `diagrama.py`, `capturas.py`), la construcción del notebook de Colab
-  (`Lab2_Merkle_Tree.ipynb`) y la redacción de este `README.md` fueron generados
-  con asistencia de IA generativa, a partir del enunciado del laboratorio.
-- **Qué no vino de la IA**: los datos de las 5 transacciones simuladas y el
+- **Qué se usó de la IA**: se le pidio un codigo base y se trabajo encima de el, se probo codigo con nuestros propios datos
+- **Qué no vino de la IA**: Revisión y depuración del codigo los datos de las 5 transacciones simuladas y el
   enunciado/especificación del laboratorio, provistos por el estudiante/docente.
-- **Responsabilidad**: el estudiante ha revisado, ejecutado y comprende cada
-  parte del código entregado (construcción del árbol, generación de la Merkle
+- **Responsabilidad**: el estudiante ha revisado, ejecutado y comprende algunas 
+  partes del código entregado (construcción del árbol, generación de la Merkle
   Root, generación y verificación de la prueba de inclusión) y puede explicar
   cualquier elemento de la entrega.
 
